@@ -17,7 +17,7 @@
   "deprecated": false,
   "description": "A new remake version of a simple, delicate, and modern theme for Hexo",
   "devDependencies": {
-    "bulma-stylus": "0.8.0",
+    "bulma-stylus": "0.9.1",
     "eslint": "^8.8.0",
     "eslint-config-hexo": "^5.0.0",
     "eslint-plugin-json": "^3.1.0",
@@ -42,7 +42,7 @@
   "license": "MIT",
   "name": "hexo-theme-amazingremake",
   "peerDependencies": {
-    "bulma-stylus": "0.8.0",
+    "bulma-stylus": "0.9.1",
     "hexo": "^6.0.0",
     "hexo-log": "^3.0.0",
     "hexo-pagination": "^2.0.0",
