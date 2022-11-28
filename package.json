@@ -9,7 +9,7 @@
   "dependencies": {
     "deepmerge": "^4.2.2",
     "hexo-component-inferno": "^1.0.2",
-    "inferno": "^7.4.11",
+    "inferno": "^8.0.5",
     "inferno-create-element": "^8.0.3",
     "moment": "^2.29.1",
     "semver": ">=5.0.0"
